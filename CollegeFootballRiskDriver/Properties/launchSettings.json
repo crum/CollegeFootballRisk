@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CollegeFootballRiskDriver": {
+      "commandName": "Project",
+      "commandLineArgs": "list-teams"
+    }
+  }
+}
